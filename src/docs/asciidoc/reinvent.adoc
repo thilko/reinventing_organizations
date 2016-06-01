@@ -1,0 +1,339 @@
+= Reinventing organizations
+Lunch & Learn 03.07.2016
+2016-05-25
+:revnumber: {project-version}
+:example-caption!:
+
+== A book about the emergence of a new organizational model
+
+== Frederic Laloux
+video::TsBjVKJzsKY[youtube, width=800, height=600]
+
+== Historical and developmental perspective
+
+[data-background="red"]
+=== Infra-read - Impulsive
+=== !
+* 100.000 - 50.000 BC
+* Small bands
+* Ego is not fully formed
+* No organizations
+* High rate of violence
+
+[data-background="magenta"]
+=== Magenta - Magic
+
+=== !
+* Around 15.000 years ago
+* From family bands to tribes
+* People live mostly in the present
+* Cause and effect poorly understood
+
+[data-background="red"]
+=== Red - Impulsive
+
+=== !
+* 10.000 years ago
+* First proto-empires
+* Division of labor
+* No formal hierarchy
+* Bad at planning and complex environments
+
+[data-background="images/mafiagang.jpg"]
+=== !
+
+[data-background="#FFBF00"]
+=== Amber - Conformist
+
+=== !
+* Started 3.000 years BC
+* From horticulture to agriculture
+* Cause and effect are understood
+* Learn to see the world from other eyes
+* Group norms, "us" or "them"
+* Fixed worldview
+* Strong formal hierarchies
+
+=== Amber´s breakthroughs
+* Long term perspective - stable processes
+* Size and stability - formal hierachies
+
+[data-background="images/armee.jpg"]
+=== !
+
+[data-background="orange"]
+=== Orange - Achievement
+
+=== Orange
+* scientific thinking emerges
+* effenciency over moral
+* there is no absolute right or wrong
+* materialistic worldview
+* success
+* pyramid as formal hierachy
+
+[data-background="images/maschine.jpg"]
+=== !
+
+[data-background="images/factory.jpg"]
+=== !
+
+=== Orange´s breakthroughs
+* innovation
+* accountability
+* meritocracy
+
+[data-background="green"]
+=== Green - Pluralistic
+
+=== !
+* First thinkers in the 18th and 19th century
+* All perspectives deserves equal right
+* Seeks fairness, equality, harmony, consenus
+* Bottom-up processes
+* Relationships are valued over outcomes
+* Servant leadership
+
+[data-background="images/familie.jpg"]
+=== !
+
+[data-background="images/zappos.jpg"]
+=== !
+
+=== Green´s breakthroughs
+* Empowerment
+* Value driven culture and inspirational purpose
+* Multiple stakeholder perspective
+
+=== !
+image::summary_stages.png[summary, 800,600]
+
+=== !
+image::timeline.png[timeline, 800,600]
+
+=== !
+* All "first tier" stages consider that their worldview is the only valid one
+* Every stage is adopted to it´s context
+* Every paradigm includes and transcends the previous
+* There are many dimensions: cognitive, moral, social, spiritual ...
+
+=== Shifting stages
+[quote, Frederic Laloux]
+According to the research, the trigger for vertical growth always comes in the form of a major life challenge
+that cannot be resolved from the current worldview.
+
+=== ... from **first tier** to **second tier**
+
+=== !
+[quote, John Naisbitt, American speaker and public author in the area of future studies]
+The most exciting breakthrough of the 21th century will not occur because of technology, but of an expanding concept of what means to be a human"
+
+[data-background="teal"]
+=== Teal - Evolutionary
+
+=== With every stage we leave something behind...
+
+=== !
+* Disidentify from the ego
+* Life as a journey of discovery
+* From external to internal yardsticks
+* No pyramid hierachy anymore
+* No consensus
+* Distributed power and authority
+
+=== Teal´s Breakthroughs
+* Self Management
+* Wholeness
+* Evolutionary purpose
+
+[data-background="images/butterfly.jpg"]
+=== !
+=== !
+|===
+|Name|Size|Business
+
+| Buurtzorg 
+| 10.000
+| Healthcare
+
+| FAVI 
+| 500
+| Metal manufactoring
+
+| Sun hydraulics 
+| 900
+| Hydraulics components
+
+| Morning star 
+| 2.400
+| Food processing
+
+| AES 
+| 40.000
+| Energy sector
+|===
+
+== Self-management - Structure
+[data-background="images/buurtzorg.png"]
+=== !
+=== !
+* ~10.000 employees 
+* 1 CEO
+* Nurses work in self-managing teams of 10-12, caring about 50 patients
+* Teams have no boss
+* No middle management
+
+=== Effective mechanisms at play
+* Intense coaching 
+* Processes for conflicts
+* Internal social network
+
+[data-background="images/favi.png"]
+=== !
+
+=== !
+* Small, customer oriented mini factories
+* 21 factories with about 15-35 people
+* No sales department
+* No executive team, few meetings
+
+[data-background="images/sun.png"]
+=== !
+
+=== !
+* No quality control, scheduling, or purchasing departments
+* No time clock
+* People work in clusters
+* Radically simplified project management
+* No central prioritization
+
+== Self-management - Processes
+=== Advice process
+Everyone in the organization can take every decision. But before doing so, the person must seek advice from
+all affected parties. There is no obligation to integrate every piece of advice.
+
+=== Decisions in times of a crisis
+
+=== Purchasing and Investments
+
+=== Conflict Resolution
+* Peer based processes
+
+=== Internal Communications
+* All information is public
+* People are trusted to deal with good and bad news
+
+=== Role definition and allocation
+
+=== Performance management at the team level
+
+=== Compensation and incentives
+* No incentives, but company wide bonuses
+* Peer-based processed and self-set salaries
+
+=== Summary
+* Misperception #1: There is no structure no mgmt, no leadership
+* Misperception #2: Everyone is equal
+* Misperception #3: It´s about empowerment
+* Misperception #4: It´s still experimental
+
+=== !
+== Wholeness
+
+=== !
+image::wholeness.png[]
+
+=== ... a place where I feel I can fully be myself
+* Dogs and children - or inviting humanity to our work
+
+=== Safe and open working environments
+* Create a organization where you can show up as a whole
+* Ground rules for a safe environment
+
+=== Reflective spaces
+* Large group reflections
+* Team supervision
+* Peer coaching
+* Individual coaching
+
+=== !
+[quote, Frederic Laloux]
+Meetings can bring out the best and the worst of human nature.
+
+=== Practices
+* Moderator
+* Opening/Closing ceremony
+* Holacracy meeting processes/structures
+* Ring the bell!
+
+== Evolutionary purpose
+
+[data-background="images/jackwelch.jpg"]
+=== !
+
+=== Experiment...
+
+=== What is our current mission statement?
+
+=== What is the purpose of Dräger?
+
+=== !
+video::nya4dnfAKjs[youtube, width=800, height=600]
+
+=== From self-preservation to...
+
+=== ... what is truly worth achieving?
+
+=== Competition, market share and growth
+... when an organization truly lives sfor its purpose, there is no competition.
+
+[NOTE.speaker]
+--
+Example with buurtzorg: helps the competitors.
+--
+
+=== Practices to listen in to evolutionary purpose
+* Sensing
+* The empty chair
+* Large group processes (Appreciative Inquiry, Open Space, Future Search)
+* Meditation
+
+=== Strategy as an organic process
+[NOTE.speaker]
+--
+instead people have a clear understanding of it´s purpose and a broad direction the
+organization is heading to.
+--
+
+=== Planning, budgeting, and controlling
+* sense and respond instead of predict and control
+* workable solution instead of best possible solution
+
+=== !
+[quote, Frederic Laloux]
+In complicated systems, we can try to figure out *the best* solution. In complex systems, we need workable solutions and fast iterations.
+
+=== No targets
+[NOTE.speaker]
+--
+targets are mostly guesswork, live and circumstances changes so fast
+targets can be self set from the people - if they find it useful
+--
+
+=== Culture
+
+== Transforming an existing organization
+=== Necessary conditions
+* Does the CEO see the world through Teal lenses?
+* Do the members of the board get it?
+
+=== Introducing self-management
+* You need psychologically ownership
+* Purpose, emulation, market pressure
+
+=== Approaches
+* Creative chaos
+* Bottom-up redesign
+* Pre-existing template
+
+=== Thx.

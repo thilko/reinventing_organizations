@@ -59,12 +59,15 @@ asciidoctor {
     dependsOn jrubyPrepare
 
 	sources {
-		include 'git.adoc'
+		include 'reinvent.adoc'
 	}
 
 	resources {
 		from (sourceDir) {
 			include 'images/**'
+		}
+		from (sourceDir) {
+			include 'styles/**'
 		}
 		from (downloadDir) {
 			include 'reveal.js/**'
@@ -84,7 +87,7 @@ asciidoctor {
 				'idprefix': '',
 				'idseparator': '-',
 				'docinfo1': '',
-				'revealjs_theme': 'solarized',
+				'revealjs_theme': 'black',
 				'revealjs_transition': 'linear',
 				'revealjs_history': 'true',
 				'revealjs_slideNumber': 'true'
