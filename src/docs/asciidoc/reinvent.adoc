@@ -39,6 +39,18 @@ video::TsBjVKJzsKY[youtube, width=800, height=600]
 * No formal hierarchy
 * Bad at planning and complex environments
 
+[NOTE.speaker]
+--
+Slavery
+Simple causal rel are understood
+people live in the present
+First time death is real
+suitable for hostile envs
+--
+
+[data-background="images/wolfs.jpg"]
+=== !
+
 [data-background="images/mafiagang.jpg"]
 === !
 
@@ -54,6 +66,16 @@ video::TsBjVKJzsKY[youtube, width=800, height=600]
 * Fixed worldview
 * Strong formal hierarchies
 
+[NOTE.speaker]
+--
+Simple moral rules, there is right or wrong
+in a world of causality
+Seeks order stbility and predictability
+people can grasp linear time
+projection in the future is possible
+Social mask
+--
+
 === Amber´s breakthroughs
 * Long term perspective - stable processes
 * Size and stability - formal hierachies
@@ -65,12 +87,22 @@ video::TsBjVKJzsKY[youtube, width=800, height=600]
 === Orange - Achievement
 
 === Orange
-* scientific thinking emerges
-* effenciency over moral
-* there is no absolute right or wrong
-* materialistic worldview
-* success
-* pyramid as formal hierachy
+* Scientific thinking emerges
+* Effenciency over moral
+* There is no absolute right or wrong
+* Materialistic worldview
+* The goal is success
+* Still the pyramid as formal hierachy
+
+[NOTE.speaker]
+--
+What works and what doesn´t
+In two decades vast property and innovations
+Three glasses with liquid, will produce a yellow color
+Orange: knows the combination
+not authority - experts have the answer
+anything spiritual/transcence is suspicious
+--
 
 [data-background="images/maschine.jpg"]
 === !
@@ -83,16 +115,31 @@ video::TsBjVKJzsKY[youtube, width=800, height=600]
 * accountability
 * meritocracy
 
+[NOTE.speaker]
+--
+Mgmt by objectives, incentives
+In theory: people below are accountable
+Orgs as machines: layers, reengineering, bottlenecks, resources
+Downsides: Solely focus on money, profit and growth
+--
+
 [data-background="green"]
 === Green - Pluralistic
 
 === !
-* First thinkers in the 18th and 19th century
 * All perspectives deserves equal right
 * Seeks fairness, equality, harmony, consenus
+* First thinkers in the 18th and 19th century
 * Bottom-up processes
 * Relationships are valued over outcomes
 * Servant leadership
+
+[NOTE.speaker]
+--
+gets stuck when people when others abuse tolerance
+relies on consensus
+makes decisions slow and power games
+--
 
 [data-background="images/familie.jpg"]
 === !
@@ -111,11 +158,24 @@ image::summary_stages.png[summary, 800,600]
 === !
 image::timeline.png[timeline, 800,600]
 
+[NOTE.speaker]
+--
+never in history we had so many different perspectives
+--
+
 === !
 * All "first tier" stages consider that their worldview is the only valid one
 * Every stage is adopted to it´s context
 * Every paradigm includes and transcends the previous
 * There are many dimensions: cognitive, moral, social, spiritual ...
+
+[NOTE.speaker]
+--
+it´s not someone is "orange"...
+companies have epicentres for the different stages
+he refers to systems and culture - not people
+Orange: when the rubber meets the road a mng will choose profit
+--
 
 === Shifting stages
 [quote, Frederic Laloux]
@@ -123,6 +183,10 @@ According to the research, the trigger for vertical growth always comes in the f
 that cannot be resolved from the current worldview.
 
 === ... from **first tier** to **second tier**
+[NOTE.speaker]
+--
+Dramatically jump from first to second
+--
 
 === !
 [quote, John Naisbitt, American speaker and public author in the area of future studies]
@@ -132,14 +196,29 @@ The most exciting breakthrough of the 21th century will not occur because of tec
 === Teal - Evolutionary
 
 === With every stage we leave something behind...
+[NOTE.speaker]
+--
+Amber - Impulsiveness
+Orange - Group norms
+Green - Efficiency
+Teal - Ego!
+--
 
 === !
 * Disidentify from the ego
 * Life as a journey of discovery
 * From external to internal yardsticks
 * No pyramid hierachy anymore
-* No consensus
 * Distributed power and authority
+* Wisdom beyond rationality
+* No consensus
+
+[NOTE.speaker]
+--
+Internal yardstick: Am I beinf true to myself? Purpose
+Shift from deficit to strengh paradigm
+Integral perspective
+--
 
 === Teal´s Breakthroughs
 * Self Management
@@ -172,47 +251,133 @@ The most exciting breakthrough of the 21th century will not occur because of tec
 | 40.000
 | Energy sector
 |===
+[NOTE.speaker]
+--
+He do not mean everything in the org is teal - human nature is too complex for that
+--
 
 == Self-management - Structure
+[NOTE.speaker]
+--
+survey from Tower Watson in 2012: asked 32000 emps: 35% enganged, 43% disengaged, 22% unsupported
+What if power is not a zero sum game: if everyone is powerful we have mor power?
+--
+
 [data-background="images/buurtzorg.png"]
 === !
+[NOTE.speaker]
+--
+History: 1990 create orgs (285), in 1995 (86), strong move to orange! Disenganged nurses
+--
+
 === !
-* ~10.000 employees 
+* ~10.000 employees, ~30 employees in central functions
 * 1 CEO
+* Founded 2006 with 10 nurses
 * Nurses work in self-managing teams of 10-12, caring about 50 patients
 * Teams have no boss
 * No middle management
+[NOTE.speaker]
+--
+E&Y: 40% fewer hours, patients stay half as long, saving for dutch 2 bio $
+Nurses learn the basics of human collaboration: communication, how to run meetings, decision making
+--
 
 === Effective mechanisms at play
 * Intense coaching 
 * Processes for conflicts
 * Internal social network
 
+[NOTE.speaker]
+--
+Always a facilitator in meetings
+Management work is scattered
+No job descriptions for the regional coach
+Coach: let the teams makes their own decisions: he asks insithful questions
+Span of support: 40-50 teams
+Ground rules: 10-12 a team, regular coach meetings, appraise each other each year
+yearly plan for initiatives
+--
+
 [data-background="images/favi.png"]
 === !
+[NOTE.speaker]
+--
+brass foundry, created 1950, in orange mode
+many went to china, 50% market share for gearbox forks
+not a single delivery delayed in 25y
+changed to teal in 1986 with zobrist
+--
 
 === !
 * Small, customer oriented mini factories
 * 21 factories with about 15-35 people
-* No sales department
+* Nearly all staff functions have disappeared
 * No executive team, few meetings
+* Coordination between the teams in regular intervals
+
+[NOTE.speaker]
+--
+No HR planning, scheduling, engineering, production IT, purchasing, sales
+Coordination by designates from the teams
+Budgeting as well
+--
 
 [data-background="images/sun.png"]
 === !
+[NOTE.speaker]
+--
+founded 1970, NASDAQ
+--
 
 === !
 * No quality control, scheduling, or purchasing departments
 * No time clock
 * People work in clusters
 * Radically simplified project management
-* No central prioritization
+* No central, but natural prioritization
+* big, open spaces
+
+[data-background="images/aes.png"]
+=== !
+[NOTE.speaker]
+--
+global energy provider, founded 1982 grow to 40.000 in 2000.
+operating power plants in 31 countries
+also a sad story
+--
+=== !
+* Self-managing teams of 15-20 people
+* Each site has up tp 300-400 people
+* 100 people at the headquarter
+* teams are responsible for all day-to-day operations
+* 80/20 rule for task forces
+
+[NOTE.speaker]
+--
+budgeting from the ground up
+no org chart, no job descr no job titles
+every person a unique combinations of roles
+roles are fluid
+drop names like employee, worker, manager - all colegues
+--
 
 == Self-management - Processes
 === Advice process
 Everyone in the organization can take every decision. But before doing so, the person must seek advice from
 all affected parties. There is no obligation to integrate every piece of advice.
+[NOTE.speaker]
+--
+important: you need public information for that!
+--
 
 === Decisions in times of a crisis
+
+=== Explicit assumption about humanity
+[NOTE.speaker]
+--
+page 107
+--
 
 === Purchasing and Investments
 
@@ -224,8 +389,17 @@ all affected parties. There is no obligation to integrate every piece of advice.
 * People are trusted to deal with good and bad news
 
 === Role definition and allocation
+[NOTE.speaker]
+--
+Trading roles
+--
 
 === Performance management at the team level
+[NOTE.speaker]
+--
+Research: meaningful purpose, and resources to work for purpose... no targets needed
+Reality: no purpose in work restricted in self-expression by rules and bosses
+--
 
 === Compensation and incentives
 * No incentives, but company wide bonuses
@@ -237,6 +411,12 @@ all affected parties. There is no obligation to integrate every piece of advice.
 * Misperception #3: It´s about empowerment
 * Misperception #4: It´s still experimental
 
+[NOTE.speaker]
+--
+not everyone equal power - everyone powerful!
+it is to allow all emp to grow into the strongest, healthiest version of themselves
+--
+
 === !
 == Wholeness
 
@@ -245,6 +425,13 @@ image::wholeness.png[]
 
 === ... a place where I feel I can fully be myself
 * Dogs and children - or inviting humanity to our work
+
+[NOTE.speaker]
+--
+we come with a mask
+just focuessed on one side of us
+SoundsTrue
+--
 
 === Safe and open working environments
 * Create a organization where you can show up as a whole
@@ -265,6 +452,13 @@ Meetings can bring out the best and the worst of human nature.
 * Opening/Closing ceremony
 * Holacracy meeting processes/structures
 * Ring the bell!
+* Storytelling
+* Minute of silence
+
+=== !
+[quote, Frederic Laloux]
+To bring about better orgaizations, we need to risk speaking the truth of our soul
+and learn to navigate the conflicts that might ensue.
 
 == Evolutionary purpose
 
@@ -281,11 +475,15 @@ Meetings can bring out the best and the worst of human nature.
 video::nya4dnfAKjs[youtube, width=800, height=600]
 
 === From self-preservation to...
+[NOTE.speaker]
+--
+Idea: the current practices are there for self-preservation!
+--
 
 === ... what is truly worth achieving?
 
 === Competition, market share and growth
-... when an organization truly lives sfor its purpose, there is no competition.
+... when an organization truly lives for its purpose, there is no competition.
 
 [NOTE.speaker]
 --
@@ -301,8 +499,10 @@ Example with buurtzorg: helps the competitors.
 === Strategy as an organic process
 [NOTE.speaker]
 --
+in teal there is no strategy process
 instead people have a clear understanding of it´s purpose and a broad direction the
 organization is heading to.
+Strategy happens organically all the time
 --
 
 === Planning, budgeting, and controlling
@@ -321,6 +521,12 @@ targets can be self set from the people - if they find it useful
 --
 
 === Culture
+
+=== !
+image::culture_1.png[summary, 800,700]
+
+=== !
+image::culture_2.png[summary, 800,700]
 
 == Transforming an existing organization
 === Necessary conditions
