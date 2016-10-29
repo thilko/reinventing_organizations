@@ -1,43 +1,22 @@
-= Reinventing organizations
-Lunch & Learn 03.07.2016
-2016-05-25
+= Unternehmen neu gedacht
+MetaNook 2016
+2016-11-11
 :revnumber: {project-version}
 :example-caption!:
 
-== A book about the emergence of a new organizational model
+== Was stimmt nicht mit den heutigen Organisationen?
 
-== Frederic Laloux
-video::TsBjVKJzsKY[youtube, width=800, height=600]
-
-== Historical and developmental perspective
+== Ein Blick in unsere Vergangenheit...
 
 [data-background="red"]
-=== Infra-read - Impulsive
-=== !
-* 100.000 - 50.000 BC
-* Small bands
-* Ego is not fully formed
-* No organizations
-* High rate of violence
-
-[data-background="magenta"]
-=== Magenta - Magic
+=== Red - Impulsiv
 
 === !
-* Around 15.000 years ago
-* From family bands to tribes
-* People live mostly in the present
-* Cause and effect poorly understood
-
-[data-background="red"]
-=== Red - Impulsive
-
-=== !
-* 10.000 years ago
-* First proto-empires
-* Division of labor
-* No formal hierarchy
-* Bad at planning and complex environments
+* 10.000 Jahre zurück
+* Erste Arbeitsteilung
+* Keine formelle Hierarchie
+* Keine Planung
+* Schwierigkeiten mit komplexen Sachverhalten
 
 [NOTE.speaker]
 --
@@ -58,13 +37,13 @@ suitable for hostile envs
 === Amber - Conformist
 
 === !
-* Started 3.000 years BC
-* From horticulture to agriculture
-* Cause and effect are understood
-* Learn to see the world from other eyes
-* Group norms, "us" or "them"
-* Fixed worldview
-* Strong formal hierarchies
+* Begann vor ca. 3.000 Jahren
+* Wechsel vom Gartenbau zur Landwirtschaft
+* Ursache und Wirkung ist verstanden
+* Welt kann aus anderen Augen wahrgenommen werden
+* Gruppennormen entstehen
+* Feste Weltanschauung
+* Strenge formelle Hierarchien
 
 [NOTE.speaker]
 --
@@ -77,8 +56,8 @@ Social mask
 --
 
 === Amber´s breakthroughs
-* Long term perspective - stable processes
-* Size and stability - formal hierachies
+* Stabile Prozesse und Planung
+* Skalierbare Systeme durch formelle Hierarchien
 
 [data-background="images/armee.jpg"]
 === !
@@ -87,12 +66,12 @@ Social mask
 === Orange - Achievement
 
 === Orange
-* Scientific thinking emerges
-* Effenciency over moral
-* There is no absolute right or wrong
-* Materialistic worldview
-* The goal is success
-* Still the pyramid as formal hierachy
+* Wissenschaftliches Denken entsteht
+* Effizienz über Moral
+* Es gibt kein absolutes Richtig oder Falsch
+* Materialistische Weltanschauung
+* Ziel ist die Überlegenheit
+* Pyramide als formelle Hierarchie bleibt bestehen
 
 [NOTE.speaker]
 --
@@ -110,10 +89,13 @@ anything spiritual/transcence is suspicious
 [data-background="images/factory.jpg"]
 === !
 
+[data-background="images/draeger_buero.jpg"]
+=== !
+
 === Orange´s breakthroughs
-* innovation
-* accountability
-* meritocracy
+* Innovation
+* Verantwortung
+* Leistung
 
 [NOTE.speaker]
 --
@@ -277,6 +259,7 @@ History: 1990 create orgs (285), in 1995 (86), strong move to orange! Disengange
 * Nurses work in self-managing teams of 10-12, caring about 50 patients
 * Teams have no boss
 * No middle management
+
 [NOTE.speaker]
 --
 E&Y: 40% fewer hours, patients stay half as long, saving for dutch 2 bio $
@@ -465,6 +448,11 @@ and learn to navigate the conflicts that might ensue.
 [data-background="images/jackwelch.jpg"]
 === !
 
+[NOTE.speaker]
+--
+Jack Welsh, father of Shareholder Value
+--
+
 === Experiment...
 
 === What is our current mission statement?
@@ -524,6 +512,11 @@ targets can be self set from the people - if they find it useful
 
 === !
 image::culture_1.png[summary, 800,700]
+
+[NOTE.speaker]
+--
+Integral theory Ken Wilber
+--
 
 === !
 image::culture_2.png[summary, 800,700]
