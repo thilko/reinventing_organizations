@@ -12,10 +12,10 @@ MetaNook 2016
 === Red - Impulsiv
 
 === !
-* 10.000 Jahre zurück
+[%step]
+* Begann vor ca. 10.000 Jahren
 * Erste Arbeitsteilung
-* Keine formelle Hierarchie
-* Keine Planung
+* Keine formelle Hierarchie, keine Planung
 * Schwierigkeiten mit komplexen Sachverhalten
 
 [NOTE.speaker]
@@ -34,16 +34,16 @@ suitable for hostile envs
 === !
 
 [data-background="#FFBF00"]
-=== Amber - Conformist
+=== Gelb - Konformität
 
 === !
+[%step]
 * Begann vor ca. 3.000 Jahren
-* Wechsel vom Gartenbau zur Landwirtschaft
+* Vom Gartenbau zur Landwirtschaft
 * Ursache und Wirkung ist verstanden
 * Welt kann aus anderen Augen wahrgenommen werden
 * Gruppennormen entstehen
-* Feste Weltanschauung
-* Strenge formelle Hierarchien
+* Feste Weltanschauung mit formellen Hierarchien
 
 [NOTE.speaker]
 --
@@ -55,22 +55,23 @@ projection in the future is possible
 Social mask
 --
 
-=== Amber´s breakthroughs
+=== Fortschritte
+[%step]
 * Stabile Prozesse und Planung
-* Skalierbare Systeme durch formelle Hierarchien
+* Skalierbare Systeme durch Hierarchien 
 
 [data-background="images/armee.jpg"]
 === !
 
 [data-background="orange"]
-=== Orange - Achievement
+=== Orange - Leistungsgesellschaft
 
 === Orange
+[%step]
 * Wissenschaftliches Denken entsteht
-* Effizienz über Moral
-* Es gibt kein absolutes Richtig oder Falsch
+* Effizienz über Moral 
 * Materialistische Weltanschauung
-* Ziel ist die Überlegenheit
+* Ziel ist der Erfolg
 * Pyramide als formelle Hierarchie bleibt bestehen
 
 [NOTE.speaker]
@@ -92,7 +93,8 @@ anything spiritual/transcence is suspicious
 [data-background="images/draeger_buero.jpg"]
 === !
 
-=== Orange´s breakthroughs
+=== Fortschritte
+[%step]
 * Innovation
 * Verantwortung
 * Leistung
@@ -106,15 +108,14 @@ Downsides: Solely focus on money, profit and growth
 --
 
 [data-background="green"]
-=== Green - Pluralistic
+=== Green - Pluralistisch
 
 === !
-* All perspectives deserves equal right
-* Seeks fairness, equality, harmony, consenus
-* First thinkers in the 18th and 19th century
-* Bottom-up processes
-* Relationships are valued over outcomes
-* Servant leadership
+[%step]
+* Alle Perspektiven sind gleichberechtigt
+* Schwerpunkt auf Fairness, Gleichheit und Konsens
+* Bottom-Up Prozesse
+* Prinzip von "Servant Leadership" entsteht
 
 [NOTE.speaker]
 --
@@ -129,10 +130,11 @@ makes decisions slow and power games
 [data-background="images/zappos.jpg"]
 === !
 
-=== Green´s breakthroughs
-* Empowerment
-* Value driven culture and inspirational purpose
-* Multiple stakeholder perspective
+=== Fortschritte
+[%step]
+* Selbstbestimmung
+* Werte getriebene Kultur und inspirierender Sinn
+* Stakeholder über Shareholder
 
 === !
 image::summary_stages.png[summary, 800,600]
@@ -146,10 +148,11 @@ never in history we had so many different perspectives
 --
 
 === !
-* All "first tier" stages consider that their worldview is the only valid one
-* Every stage is adopted to it´s context
-* Every paradigm includes and transcends the previous
-* There are many dimensions: cognitive, moral, social, spiritual ...
+[%step]
+* Alle bisherigen Phasen gehen davon aus, das Ihre Weltanschauung die Richtige ist
+* Jede Phase passt zum vorherrschenden Kontext
+* Jede Phase inkludiert die vorherigen Phasen
+* viele Dimensionen: kognitiv, moralisch, sozial, spirituell
 
 [NOTE.speaker]
 --
@@ -157,14 +160,14 @@ it´s not someone is "orange"...
 companies have epicentres for the different stages
 he refers to systems and culture - not people
 Orange: when the rubber meets the road a mng will choose profit
+Jede Phase hat Ihre Vor-und Nachteile
 --
 
-=== Shifting stages
+=== von der ersten zur zweiten Stufe...
 [quote, Frederic Laloux]
 According to the research, the trigger for vertical growth always comes in the form of a major life challenge
 that cannot be resolved from the current worldview.
 
-=== ... from **first tier** to **second tier**
 [NOTE.speaker]
 --
 Dramatically jump from first to second
@@ -175,9 +178,9 @@ Dramatically jump from first to second
 The most exciting breakthrough of the 21th century will not occur because of technology, but of an expanding concept of what means to be a human"
 
 [data-background="teal"]
-=== Teal - Evolutionary
+=== Teal - Integral-Evolutionär
 
-=== With every stage we leave something behind...
+=== Mit jeder Entwicklungsstufe lassen wir etwas los...
 [NOTE.speaker]
 --
 Amber - Impulsiveness
@@ -187,13 +190,20 @@ Teal - Ego!
 --
 
 === !
-* Disidentify from the ego
-* Life as a journey of discovery
-* From external to internal yardsticks
-* No pyramid hierachy anymore
-* Distributed power and authority
-* Wisdom beyond rationality
-* No consensus
+[%step]
+* Gelb: Das Impulsive
+* Orange: Gruppennormen
+* Green: Effizienz
+
+[data-background="images/the_ego.jpg"]
+=== !
+
+=== !
+* Trennung vom Ego
+* Das Leben als Reise erkennen
+* Von externen zu internen Masßstäben
+* Systeme mit verteilter Autorität
+* Weisheit über Rationalität
 
 [NOTE.speaker]
 --
@@ -203,9 +213,9 @@ Integral perspective
 --
 
 === Teal´s Breakthroughs
-* Self Management
-* Wholeness
-* Evolutionary purpose
+* Selbstorganisation
+* Ganzheitliche Denkweise
+* Evolutionärer Sinn
 
 [data-background="images/butterfly.jpg"]
 === !
@@ -238,7 +248,7 @@ Integral perspective
 He do not mean everything in the org is teal - human nature is too complex for that
 --
 
-== Self-management - Structure
+== Self-management - Struktur
 [NOTE.speaker]
 --
 survey from Tower Watson in 2012: asked 32000 emps: 35% enganged, 43% disengaged, 22% unsupported
@@ -253,12 +263,15 @@ History: 1990 create orgs (285), in 1995 (86), strong move to orange! Disengange
 --
 
 === !
-* ~10.000 employees, ~30 employees in central functions
+* ~10.000 Mitarbeiter, ca. 30 Mitarbeiter in der Zentrale
 * 1 CEO
-* Founded 2006 with 10 nurses
-* Nurses work in self-managing teams of 10-12, caring about 50 patients
-* Teams have no boss
-* No middle management
+* kein mittleres Management
+* Gegründet 2007 mit 10 Krankenschwestern
+
+=== !
+* Schwestern arbeiten in selbstorganisierten Teams mit 10-12 Mitgliedern
+* Jedes Team betreut ca. 50 Patienten
+* Team haben keinen offiziellen Vorgesetzten
 
 [NOTE.speaker]
 --
@@ -266,10 +279,10 @@ E&Y: 40% fewer hours, patients stay half as long, saving for dutch 2 bio $
 Nurses learn the basics of human collaboration: communication, how to run meetings, decision making
 --
 
-=== Effective mechanisms at play
-* Intense coaching 
-* Processes for conflicts
-* Internal social network
+=== Wie funkioniert das?
+* Intensives Coaching
+* Prozesse für Konfliktlösung
+* Internes social network
 
 [NOTE.speaker]
 --
@@ -293,11 +306,11 @@ changed to teal in 1986 with zobrist
 --
 
 === !
-* Small, customer oriented mini factories
-* 21 factories with about 15-35 people
-* Nearly all staff functions have disappeared
-* No executive team, few meetings
-* Coordination between the teams in regular intervals
+* Kleine, kundenorientierte Fabriken
+* Jede Fabrik arbeiten 15-35 Arbeiter
+* Fast alle Zentralfunktionen wurden aufgelöst
+* Keine Führungsteam, wenig Meetings
+* Koordination findet auf Teamebene statt
 
 [NOTE.speaker]
 --
@@ -305,21 +318,6 @@ No HR planning, scheduling, engineering, production IT, purchasing, sales
 Coordination by designates from the teams
 Budgeting as well
 --
-
-[data-background="images/sun.png"]
-=== !
-[NOTE.speaker]
---
-founded 1970, NASDAQ
---
-
-=== !
-* No quality control, scheduling, or purchasing departments
-* No time clock
-* People work in clusters
-* Radically simplified project management
-* No central, but natural prioritization
-* big, open spaces
 
 [data-background="images/aes.png"]
 === !
@@ -330,11 +328,11 @@ operating power plants in 31 countries
 also a sad story
 --
 === !
-* Self-managing teams of 15-20 people
-* Each site has up tp 300-400 people
-* 100 people at the headquarter
-* teams are responsible for all day-to-day operations
-* 80/20 rule for task forces
+* Selbstorganisierte Teams mit 15-20 Mitgliedern
+* Jedes Kraftwerk hat 300-400 Mitarbeiter
+* 100 Mitarbeiter in der Zentrale
+* Teams sind für alle operativen Aufgaben zuständig
+* 80/20 Regel für Task-Forces
 
 [NOTE.speaker]
 --
@@ -345,7 +343,7 @@ roles are fluid
 drop names like employee, worker, manager - all colegues
 --
 
-== Self-management - Processes
+== Self-management - Prozesse
 === Advice process
 Everyone in the organization can take every decision. But before doing so, the person must seek advice from
 all affected parties. There is no obligation to integrate every piece of advice.
@@ -354,24 +352,14 @@ all affected parties. There is no obligation to integrate every piece of advice.
 important: you need public information for that!
 --
 
-=== Decisions in times of a crisis
+=== Konfliktlösungsprozesse
+* Peer-to-Peer basierende Prozesse
 
-=== Explicit assumption about humanity
-[NOTE.speaker]
---
-page 107
---
+=== Interne Kommunikation
+* Alle Informationen sind öffentlich
+* Annahme: Alle können mit guten und schlechten Nachrichtn umgehen
 
-=== Purchasing and Investments
-
-=== Conflict Resolution
-* Peer based processes
-
-=== Internal Communications
-* All information is public
-* People are trusted to deal with good and bad news
-
-=== Role definition and allocation
+=== Jobprofil vs. Rollenverständnis
 [NOTE.speaker]
 --
 Trading roles
@@ -388,11 +376,10 @@ Reality: no purpose in work restricted in self-expression by rules and bosses
 * No incentives, but company wide bonuses
 * Peer-based processed and self-set salaries
 
-=== Summary
-* Misperception #1: There is no structure no mgmt, no leadership
-* Misperception #2: Everyone is equal
-* Misperception #3: It´s about empowerment
-* Misperception #4: It´s still experimental
+=== Zusammenfassung - die üblichen Irrtümer
+* Selbstorganisation heißt Chaos und fehlende Struktur
+* Alle sind gleich!
+* Selbstorganisation ist experimentell
 
 [NOTE.speaker]
 --
@@ -401,16 +388,16 @@ it is to allow all emp to grow into the strongest, healthiest version of themsel
 --
 
 === !
-== Wholeness
+== Ganzheitliches Denken
 
 === !
 image::wholeness.png[]
 
-=== ... a place where I feel I can fully be myself
-* Dogs and children - or inviting humanity to our work
+=== Work-Life Balance?
 
 [NOTE.speaker]
 --
+dogs and children, inviting humanity to work
 we come with a mask
 just focuessed on one side of us
 SoundsTrue
@@ -420,17 +407,11 @@ SoundsTrue
 * Create a organization where you can show up as a whole
 * Ground rules for a safe environment
 
-=== Reflective spaces
-* Large group reflections
-* Team supervision
-* Peer coaching
-* Individual coaching
-
 === !
 [quote, Frederic Laloux]
 Meetings can bring out the best and the worst of human nature.
 
-=== Practices
+=== Praktiken
 * Moderator
 * Opening/Closing ceremony
 * Holacracy meeting processes/structures
@@ -438,12 +419,8 @@ Meetings can bring out the best and the worst of human nature.
 * Storytelling
 * Minute of silence
 
-=== !
-[quote, Frederic Laloux]
-To bring about better orgaizations, we need to risk speaking the truth of our soul
-and learn to navigate the conflicts that might ensue.
 
-== Evolutionary purpose
+== Sinnhaftigkeit
 
 [data-background="images/jackwelch.jpg"]
 === !
@@ -452,15 +429,6 @@ and learn to navigate the conflicts that might ensue.
 --
 Jack Welsh, father of Shareholder Value
 --
-
-=== Experiment...
-
-=== What is our current mission statement?
-
-=== What is the purpose of Dräger?
-
-=== !
-video::nya4dnfAKjs[youtube, width=800, height=600]
 
 === From self-preservation to...
 [NOTE.speaker]
@@ -479,12 +447,10 @@ Example with buurtzorg: helps the competitors.
 --
 
 === Practices to listen in to evolutionary purpose
-* Sensing
 * The empty chair
 * Large group processes (Appreciative Inquiry, Open Space, Future Search)
-* Meditation
 
-=== Strategy as an organic process
+=== Strategie als ein organischer Prozess
 [NOTE.speaker]
 --
 in teal there is no strategy process
@@ -492,10 +458,6 @@ instead people have a clear understanding of it´s purpose and a broad direction
 organization is heading to.
 Strategy happens organically all the time
 --
-
-=== Planning, budgeting, and controlling
-* sense and respond instead of predict and control
-* workable solution instead of best possible solution
 
 === !
 [quote, Frederic Laloux]
@@ -521,18 +483,5 @@ Integral theory Ken Wilber
 === !
 image::culture_2.png[summary, 800,700]
 
-== Transforming an existing organization
-=== Necessary conditions
-* Does the CEO see the world through Teal lenses?
-* Do the members of the board get it?
-
-=== Introducing self-management
-* You need psychologically ownership
-* Purpose, emulation, market pressure
-
-=== Approaches
-* Creative chaos
-* Bottom-up redesign
-* Pre-existing template
 
 === Thx.
